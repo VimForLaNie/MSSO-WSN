@@ -1,0 +1,6 @@
+LEACH Simulation Summary (20251009_232354)
+Total nodes: 50
+Rounds: 200
+Total initial energy: 25.0000 J
+Remaining energy after last round: 13.9198 J
+Total energy consumed: 11.0802 J

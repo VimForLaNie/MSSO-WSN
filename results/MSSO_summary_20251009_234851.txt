@@ -1,0 +1,5 @@
+MSSO Simulation Summary (20251009_234851)
+Nodes: 100
+Initial total energy: 50.000000 J
+Remaining energy (last round): 3.651182 J
+Total energy consumed: 46.348818 J
